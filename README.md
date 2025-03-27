@@ -17,6 +17,7 @@ API: Weather API (JSON)
 
 How to Run
 Clone the repository.
+https://github.com/Radhika-SoftwareEng/Weather_App.git
 
 Set up a servlet container (Tomcat recommended).
 
